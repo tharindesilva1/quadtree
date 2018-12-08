@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quadtree", "Quadtree\Quadtree.vcxproj", "{150E0C02-F7E8-430A-AF19-7E5C73644002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Debug|x64.ActiveCfg = Debug|x64
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Debug|x64.Build.0 = Debug|x64
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Debug|x86.ActiveCfg = Debug|Win32
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Debug|x86.Build.0 = Debug|Win32
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Release|x64.ActiveCfg = Release|x64
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Release|x64.Build.0 = Release|x64
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Release|x86.ActiveCfg = Release|Win32
+		{150E0C02-F7E8-430A-AF19-7E5C73644002}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B045D0B-D7A9-4560-A64D-E1205724F324}
+	EndGlobalSection
+EndGlobal
